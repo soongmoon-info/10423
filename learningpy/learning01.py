@@ -5,5 +5,6 @@ b = int(input('b값을 입력'))
 
 print(a+b)
 
-age = int(input('나이를입력해주세요:'))
+age1 = int(input('생년입력:'))
+age = 2024- age1 +1
 print('당신의나이는 %d입니다' % age)
